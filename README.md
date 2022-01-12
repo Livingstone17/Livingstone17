@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there...I'm Samson Peter 👋
 
+I am a UI/UX Designer and Frontend Developer passionate about designing and developing solutions that balances aesthetics and functionality.
+
+I am skilled in designing,protyping, developing and testing multiple web-based applications using a range of technologies.                                                 
+I basically code in JavaScript and use Figma/Adobe XD for UI Design. I love challenging myself to build every product I design. At my free time, I study God 😄
+
+- 💬 Ask me about Javascript,Figma and Adobe XD.✨
+- ⚡ Fun fact: I love playing musical instruments(especially strings):musical_note: and teaching too.
 <!--
 **Livingstone17/Livingstone17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
