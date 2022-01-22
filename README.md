@@ -6,7 +6,7 @@ I am skilled in designing,protyping, developing and testing multiple web-based a
 I basically code in JavaScript and use Figma/Adobe XD for UI Design. I love challenging myself to build every product I design. At my free time, I study God and the laws of nature 😄
 
 - 💬 Ask me about Javascript,Figma and Adobe XD.✨
-- ⚡ Fun fact: I love playing musical instruments(especially strings):musical_note: and teaching too.
+- ⚡ Fun fact: I love playing musical instruments(especially strings):musical_note: and impacting others.
 <!-- - Here is my Github stat -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=livingstone17&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=livingstone17&layout=compact)
  
