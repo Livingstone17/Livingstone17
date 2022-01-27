@@ -3,7 +3,8 @@
 I am a UI/UX Designer and Frontend Developer passionate about designing and developing solutions that balances aesthetics and functionality; 
 
 I am skilled in designing,protyping, developing and testing multiple web-based applications using a range of technologies.                                                 
-I basically code in JavaScript, use Figma/Adobe XD for UI Design and flutter/Dart for mobile development. I love challenging myself to build every product I design. At my free time, I study God and the laws of nature 😄
+I basically code in JavaScript, use Figma/Adobe XD for UI Design and flutter/Dart for mobile development. I love challenging myself to build every product I design and to learn something new everyday.
+At my free time, I study God and the laws of nature 😄
 
 - 💬 Ask me about Javascript,Figma,Adobe XD and user interface development.✨
 - ⚡ Fun fact: I love playing musical instruments(especially strings):musical_note: and impacting others.
