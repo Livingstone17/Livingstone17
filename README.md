@@ -1,11 +1,12 @@
 ### Hi there...I'm Samson Peter 👋
+- 😄 Pronouns: ... He/Him
 
-I am a UI/UX Designer and Frontend Developer passionate about designing and developing solutions that makes life easier. 
+I am a UI/UX Designer and Frontend Developer passionate about designing and developing solutions that make life easier. 
 
 I am skilled in designing,protyping, developing and testing multiple web-based applications using a range of technologies.                                                 
-I basically code in JavaScript, use Figma/Adobe XD for UI Design and flutter/Dart for mobile development. I love challenging myself to build every product I design and to learn something new everyday.
+I basically code in JavaScript, use Figma/Adobe XD for UI Design, and React Native for mobile development. I love challenging myself to build every product I design and to learn something new every day.
 At my free time, I study God and the laws of nature 😄
-- 🌱 I’m currently learning Redux and mobile app development with flutter.
+- 🌱 I’m currently learning Redux and mobile app development with React Native.
 
 - 💬 Ask me about Javascript, React, Figma, Adobe XD and user interface development.✨
 - ⚡ Fun fact: I love playing musical instruments (especially stringed instruments):musical_note:, reading and impacting others.
