@@ -7,8 +7,8 @@ I basically code in JavaScript, use Figma/Adobe XD for UI Design and flutter/Dar
 At my free time, I study God and the laws of nature 😄
 - 🌱 I’m currently learning Redux and mobile app development with flutter.
 
-- 💬 Ask me about Javascript,Figma,Adobe XD and user interface development.✨
-- ⚡ Fun fact: I love playing musical instruments(especially stringed instruments):musical_note:, reading and impacting others.
+- 💬 Ask me about Javascript, React, Figma, Adobe XD and user interface development.✨
+- ⚡ Fun fact: I love playing musical instruments (especially stringed instruments):musical_note:, reading and impacting others.
 <!-- - Here is my Github stat -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=livingstone17&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=livingstone17&layout=compact)
  
