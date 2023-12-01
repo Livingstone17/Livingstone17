@@ -13,9 +13,8 @@ At my free time, I study God and the laws of nature 😄
 <!-- - Here is my Github stat -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=livingstone17&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=livingstone17&layout=compact)
 
-🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
 
 
  
