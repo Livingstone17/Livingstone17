@@ -11,9 +11,9 @@ At my free time, I study God and the laws of nature 😄
 - 💬 Ask me about Javascript, React, Figma, Adobe XD, and user interface development.✨
 - ⚡ Fun fact: I love playing musical instruments (especially stringed instruments):musical_note:, reading and impacting others.
 <!-- - Here is my Github stat -->
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=livingstone17&theme=highcontrast&show_icons=true&count_private=false) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=livingstone17&layout=compact) -->
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=livingstone17&theme=highcontrast&show_icons=true&count_private=false) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=livingstone17&layout=compact) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingstone17&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingstone17&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingstone17&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingstone17&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
