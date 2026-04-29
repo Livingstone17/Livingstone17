@@ -13,6 +13,8 @@ I'm a **Senior Frontend Engineer** who builds secure, scalable digital and SME b
 
 I enjoy the challenge of building what I design, continuously improving performance, usability, and code quality, while learning something new every day.
 
-🌱 **Currently exploring:** Agentic AI development & Cybersecurity
-💬 **Ask me about:** JavaScript, TypeScript, React, React Native, Kony Infinity, Figma, Cybersecurity, or AI
+🌱 **Currently exploring:** Agentic AI development & Cybersecurity.
+
+💬 **Ask me about:** JavaScript, TypeScript, React, React Native, Kony Infinity, Figma, Cybersecurity, or AI.
+
 ⚡ **Fun fact:** I love playing stringed instruments, reading, mentoring others, and studying God and the laws of nature. 😄
